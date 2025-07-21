@@ -91,7 +91,7 @@ A custom `manual_testing(news)` function was implemented that:
 
 ## 📂 Files Included
 
-- <a href="">Click Here</a> – Dataset used 
+- <a href="Fake_&_True_News_Data">Click Here</a> – Datasets used 
 - <a href="">Click Here</a> – Report and project summary  
 - `README.md` – Project documentation
 
